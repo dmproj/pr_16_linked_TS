@@ -28,7 +28,7 @@ function setCookie(name, value, options = {}) {
     }
   }
 
-  //document.cookie = updatedCookie;
+  document.cookie = updatedCookie;
 }
 
 // Example of use:
